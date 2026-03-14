@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OneBlock00067.aternos.me",
-    "port": 24232,
+    "ip": "humptydumpty.aternos.me",
+    "port": 44338,
     "version": "",
     "try-creative": false
   },
